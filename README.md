@@ -1,6 +1,6 @@
 # restaurant‑kitchen‑alert‑terminal
 串行后厨智能备餐预警终端
-> 🚧 **Project Status: Under Development | 开发中，预计2027寒假完成软硬件落地**
+> 🚧 **Project Status: Under Development | 开发中,以练习学习为主**
 
 ## 项目背景
 为家庭串行做菜的餐饮门店开发备餐预警提醒系统。
